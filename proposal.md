@@ -4,8 +4,8 @@
 * Agustin España
 
 ### Repositorios
-* [frontend app](https://github.com/Agusesp1/APP-Concurso-frontend)()
-* [backend app](https://github.com/Agusesp1/APP-Concurso-backend)()
+* [frontend app](https://github.com/Agusesp1/APP-Concurso-frontend)
+* [backend app](https://github.com/Agusesp1/APP-Concurso-backend)
 
 ## Tema
 ### Descripción
